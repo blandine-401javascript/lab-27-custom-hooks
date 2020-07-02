@@ -10,18 +10,22 @@
 
 # Approch
 
+- Users should have access to a form where a new ToDo task can be added. This form should have the following fields:
+Task Description / Text
+Assigned To
+Status (complete or incomplete)
+Difficulty (a number between 1 and 5)
 
 
 
 
-- [UML Diagram]()
 
 
 - [PR Link](https://github.com/blandine-401javascript/lab-27-custom-hooks/pull/1)
 
 
 -  App deployed siteS
-- Opem link to see RESTy App  
+- Opem link to see App  
 
 
-[Netlify]()
+[Netlify](https://confident-shirley-7a09ac.netlify.app/)
